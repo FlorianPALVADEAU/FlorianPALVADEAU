@@ -3,14 +3,19 @@
 I'm glad to see that you found out my profile ! 
 If you wanna learn more about me, please keep scrolling ! 🙂
 
+
+#aboutMe {
+  position: versailles;
+  height: 176cm;
+  display: boy; 
+  color: blue
+}
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I am currently learning symfony to expand my knowlegde and fulfill my school's annuary project !
+
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: email : florian.palvadeau@edu.devinci.fr
+- ⚡ Fun fact: Originally, i wasn't attracted at all by coding or development, but it looks like i would be about to make it my job !
 -->
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966](https://user-images.githubusercontent.com/90565815/133890240-bca08835-35ca-4aa0-8592-8056bde74721.gif)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966](https://user-images.githubusercontent.com/90565815/133890254-227c4aaf-f215-4845-b59a-fa3a6b273ef5.gif)
