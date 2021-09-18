@@ -3,20 +3,12 @@
 I'm glad to see that you found out my profile ! 
 If you wanna learn more about me, please keep scrolling ! 🙂
 
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
-
-#aboutMe {
-  position: versailles;
-  height: 176cm;
-  display: boy; 
-  color: blue
-}
+#aboutMe {  
+  position: versailles;  
+  height: 176cm;  
+  display: boy;  
+  color: blue  
+}  
 <!--
 - 🌱 I am currently learning symfony to expand my knowlegde and fulfill my school's annuary project !
 
