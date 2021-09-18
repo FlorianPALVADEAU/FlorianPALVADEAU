@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there �![Hi](https://user-images.githubusercontent.com/90565815/133889971-8b9f49b0-6c0f-4776-9ad4-af3caafc65dd.gif)
+
 
 <!--
 **FlorianPALVADEAU/FlorianPALVADEAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
