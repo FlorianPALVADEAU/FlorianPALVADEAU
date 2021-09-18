@@ -7,7 +7,8 @@ If you wanna learn more about me, please keep scrolling ! 🙂
   position: versailles;  
   height: 176cm;  
   display: boy;  
-  color: blue  
+  color: blue;  
+  contact: ([Instagram](https://www.instagram.com/flo.plvd/?hl=fr) ! , [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/) ! , [E-mail](https://www.instagram.com/flo.plvd/?hl=fr) !  
 }  
 <!--
 - 🌱 I am currently learning symfony to expand my knowlegde and fulfill my school's annuary project !
