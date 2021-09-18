@@ -1,7 +1,6 @@
 # Hi there !     ![Hi](https://user-images.githubusercontent.com/90565815/133890037-10ce40fa-a04a-4711-8807-c3d76673e3a1.gif)
 
-I'm glad to see that you found out my profile ! 
-If you wanna learn more about me, please keep scrolling ! 🙂
+I'm glad to see that you found out my profile ! 🙂  
 
 #aboutMe {  
   position: versailles;  
