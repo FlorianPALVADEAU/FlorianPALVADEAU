@@ -8,7 +8,7 @@ I'm glad to see that you found out my profile ! 🙂
   height: 176cm;  
   display: boy;  
   color: blue;  
-  animation: skillsEvolution 20s infinite ease;
+  animation: skillsEvolution 5y infinite ease;
 }  
 
 @keyframes skillsEvolution {  
