@@ -18,3 +18,13 @@ I'm glad to see that you found out my profile ! 🙂
 - ⚡ Fun fact: Originally, i wasn't attracted at all by coding or development, but it looks like i would be about to make it my job !
 -->
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966](https://user-images.githubusercontent.com/90565815/133890254-227c4aaf-f215-4845-b59a-fa3a6b273ef5.gif)
+
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
