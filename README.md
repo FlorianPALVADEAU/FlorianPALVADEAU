@@ -11,12 +11,12 @@ I'm glad to see that you found out my profile ! 🙂
   contact: ([Instagram](https://www.instagram.com/flo.plvd/?hl=fr), [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/), [E-mail](https://www.instagram.com/flo.plvd/?hl=fr))  
 }  
 
-.contact {  
+.contact {  ``` 
 [Instagram](https://www.instagram.com/flo.plvd/?hl=fr);  
 [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/);  
 [E-mail](https://www.instagram.com/flo.plvd/?hl=fr))  
 }
-```
+
 <!--
 - 🌱 I am currently learning symfony to expand my knowlegde and fulfill my school's annuary project !
 
