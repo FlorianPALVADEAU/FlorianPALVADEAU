@@ -10,8 +10,10 @@ I'm glad to see that you found out my profile ! 🙂
   color: blue;  
   contact: ([Instagram](https://www.instagram.com/flo.plvd/?hl=fr), [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/), [E-mail](https://www.instagram.com/flo.plvd/?hl=fr))  
 }  
-
-.contact {  ``` 
+``` 
+```css
+.contact { 
+``` 
 [Instagram](https://www.instagram.com/flo.plvd/?hl=fr);  
 [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/);  
 [E-mail](https://www.instagram.com/flo.plvd/?hl=fr))  
