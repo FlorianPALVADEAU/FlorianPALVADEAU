@@ -1,6 +1,7 @@
 # Hi there !     ![Hi](https://user-images.githubusercontent.com/90565815/133890037-10ce40fa-a04a-4711-8807-c3d76673e3a1.gif)
 
 I'm glad to see that you found out my profile ! 🙂  
+```css
 
 #aboutMe {  
   position: versailles;  
@@ -9,6 +10,7 @@ I'm glad to see that you found out my profile ! 🙂
   color: blue;  
   contact: ([Instagram](https://www.instagram.com/flo.plvd/?hl=fr), [LinkedIn](https://www.linkedin.com/in/florian-palvadeau/), [E-mail](https://www.instagram.com/flo.plvd/?hl=fr))  
 }  
+```
 <!--
 - 🌱 I am currently learning symfony to expand my knowlegde and fulfill my school's annuary project !
 
