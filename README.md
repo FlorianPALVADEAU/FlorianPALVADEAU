@@ -22,5 +22,5 @@ I'm glad to see that you found out my profile ! 🙂
 
 
 ```diff
-@@ text in purple (and bold)@@
+lalala
 ```
