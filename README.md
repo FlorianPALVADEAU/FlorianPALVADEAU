@@ -22,8 +22,8 @@ I'm glad to see that you found out my profile ! 🙂
     70%,
     99% (2021_2022) {  
         transform: scale(50%);
-        background-image: (HTML, CSS, JS, PHP, Symfony_basics, Vue.js_basics, Python);  
-        /*🌱 currently learning symfony and vue.js while improving basical languages such as PHP and JS*/ 
+        background-image: (HTML, CSS, SCSS, JS, PHP, Symfony, Vue.js, Python, Django, Node_basics, Wordpress_basics);  
+        /*🌱 currently learning django and vue.js during an intership*/ 
     }  
     
     100% (2022_2025) {  
